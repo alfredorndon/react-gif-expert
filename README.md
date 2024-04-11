@@ -1,3 +1,3 @@
-# Gif Expert App
+# GifExpertApp
  
 Este es mi repositorio del proyecto de GifExpertApp de React
